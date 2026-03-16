@@ -3,7 +3,7 @@ package com.iispl.entity;
 import java.util.*;
 
 abstract public class Account {
-
+	// adding again in repo for checking purpose
 	private String accountNumber;
 	private String accountHolderName;
 	private double currentBalance;
